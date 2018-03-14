@@ -1,2 +1,2 @@
 # domainnamegenerator
-generates domain names and checks if they are available for purchase.
+generates short domain names and checks if they are available for purchase.
